@@ -1,7 +1,7 @@
 # React Button List
 Auto insert Button Name from class name.
 
-## Quick Overview
+## Quick Start
 ```sh
 git clone ...
 npm install
