@@ -4,6 +4,7 @@ Auto insert Button Name from class name.
 
 
 ## Thanks
-- create-react-app
+- Create-react-app
+- JS ES6
 - React
 - Bootstrap (button styles)
