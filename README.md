@@ -1,7 +1,9 @@
-# react-button-list
+# React Button List
 Auto insert Button Name from class name.
 
-Thanks
+---
+
+## Thanks
 - create-react-app
 - React
 - Bootstrap (button styles)
